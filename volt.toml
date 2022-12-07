@@ -1,6 +1,6 @@
-name = "lapcemoonlike"
+name = "moonlike"
 version = "0.0.1"
-display-name = "lapce-moonlike"
+display-name = "moonlike"
 author = "dean hunter"
 description = "A theme based on moonlight with heavy customization for lapce."
 repository = "https://github.com/DeanHnter/lapce-moonlike"
