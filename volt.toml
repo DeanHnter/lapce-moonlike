@@ -1,0 +1,7 @@
+name = "lapcemoonlike"
+version = "0.0.1"
+display-name = "lapce-moonlike"
+author = "dean hunter"
+description = "A theme based on moonlight with heavy customization for lapce."
+repository = "https://github.com/DeanHnter/lapce-moonlike"
+color-themes = ["moonlike.toml"]
