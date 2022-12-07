@@ -1,5 +1,5 @@
 # lapce-moonlike
-Theme based on moonlight with heavy customisation for lapce.
+WIP : Theme based on moonlight with heavy customisation for lapce.
 
 ## Installation
 1. Install via lapce plugin and set the "Color Theme" value in the settings to "moonlike".
